@@ -11,3 +11,12 @@ This repository was created on **December 14th 2022**. The team working on the r
 
 ## Known Issues
 - Deletion causing some issues (object not updating).
+## Screenshots
+
+<img src="./assets/images/addingTask.png/" alt="drawing" width="200"/>
+<img src="./assets/images/phoneDisplay.png/" alt="drawing" width="200"/>
+<img src="./assets/images/destopDisplay.png/" alt="drawing" height="200"/>
+
+## 🔗 Links
+https://lysiesoyez.github.io/Planner-Project/
+
